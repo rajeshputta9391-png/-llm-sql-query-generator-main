@@ -3,8 +3,8 @@ Project Overview
 
 This project is an AI-powered SQL Query Generator that translates natural language queries into SQL statements using GPT-4. It helps users generate, validate, and execute SQL queries against a specified database schema.
 
-Developed by Sola Ankitha
-GitHub: https://github.com/SolaAnkitha
+Developed by PUTTA RAJESHKUMAR
+GitHub[:https://github.com/rajeshputta9391]
 
 User Interface
 
@@ -32,7 +32,7 @@ Libraries: SQL Parsing, python-dotenv
 
 🚀 Installation & Setup
 1️. Clone the Repository
-https://github.com/SolaAnkitha/sql-query-generator-and-executer.git
+https://github.com/rajeshputta9391-png/-llm-sql-query-generator-main.git
 cd llm-sql-query-generator
 2. Install Dependencies
 pip install -r requirements.txt
