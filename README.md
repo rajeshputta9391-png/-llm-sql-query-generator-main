@@ -4,6 +4,7 @@ Project Overview
 This project is an AI-powered SQL Query Generator that translates natural language queries into SQL statements using GPT-4. It helps users generate, validate, and execute SQL queries against a specified database schema.
 
 Developed by PUTTA RAJESHKUMAR
+
 GitHub[:https://github.com/rajeshputta9391]
 
 User Interface
